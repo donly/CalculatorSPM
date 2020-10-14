@@ -1,3 +1,3 @@
 # Calculator
 
-A description of this package.
+For demo usage.
